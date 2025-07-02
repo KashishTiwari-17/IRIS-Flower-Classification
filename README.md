@@ -27,7 +27,7 @@ joblib for saving the model
 3. Dataset: Iris Dataset (CSV format)
 4. IDE/Platform: Google Colab or any Python IDE
 # Outcome / Results
-# Model Accuracy: ~96% on the test set
-# Classification Report shows high precision and recall across all classes.
-# The model can predict the species of a flower based on user input with great accuracy.
-# Final model saved as iris_classifier.pkl, ready for deployment or integration into applications.
+ Model Accuracy: ~96% on the test set
+ Classification Report shows high precision and recall across all classes.
+ The model can predict the species of a flower based on user input with great accuracy.
+ Final model saved as iris_classifier.pkl, ready for deployment or integration into applications.
