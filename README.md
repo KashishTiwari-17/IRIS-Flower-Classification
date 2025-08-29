@@ -1,4 +1,4 @@
-# OIBSIP_Data-Science_task1
+# IRIS Flower Classification
 # Objective of the Task
 The goal of this task is to build a machine learning model that can accurately classify Iris flowers into one of three species—Setosa, Versicolor, or Virginica—based on their physical measurements (sepal length & width, petal length & width). The project uses the Iris dataset, a well-known classification problem in data science.
 # Steps Performed
